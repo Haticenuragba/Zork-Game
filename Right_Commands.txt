@@ -1,0 +1,144 @@
+>>>>>>>>WITHOUT RESPONSES<<<<<<<<<   (With responses is below)
+
+examine pillow
+take red_key
+examine clock
+take battery
+use battery cd_player
+open cd_player
+open wardrobe
+open safe
+101
+open safe
+take paper
+take blue_key
+use blue_key blue_door
+open blue_door
+move east
+take rifle
+use red_key red_door
+open red_door
+move east
+open drawer
+take lighter
+open refrigerator
+take steak
+open wooden_door
+move south
+examine vase
+take golden_key
+use golden_key chest
+open chest
+take bullet
+use steak dog
+examine painting
+use lighter paper
+open safe
+COMP
+open safe
+take glass_sphere
+use bullet rifle
+use rifle glass_sphere
+take silver_key
+use silver_key iron_door
+open iron_door
+move south
+
+>>>>>>>>WITH RESPONSES<<<<<<<<<
+
+You get up in a bedroom, you have a headache and you don't know where you are
+and how you did come here. You just know that you have to escape!
+You are in a small-sized bedroom. There is a blue_door in east of the room.
+There is a wall clock and a table in north, bed in west and a wardrobe in south of the room.
+Also, there is a pillow on the bed and there is a cd_player on the table. 
+examine pillow
+There is a red_key under the pillow
+take red_key
+You have taken the red_key
+examine clock
+There is a battery inside the clock
+take battery
+You have taken the battery
+use battery cd_player
+The cd_player has powered!
+open cd_player
+The cd_player is opened.You watched 101 Dalmatians cartoon of Disney.
+open wardrobe
+The wardrobe is opened.There is a safe in the wardrobe
+open safe
+Please enter the three digit password to open the safe.
+101
+The safe is unlocked
+open safe
+The safe is opened.There is a paper and blue_key inside the safe
+take paper
+You have taken the paper
+take blue_key
+You have taken the blue_key
+use blue_key blue_door
+The blue_door is unlocked!
+open blue_door
+The blue_door is opened.
+move east
+You entered a narrow corridor and there is not something too much. 
+There is a wall-hung rifle in south, a carpet on the floor.
+There is also a blue_door in west and red_door in east.
+take rifle
+You have taken the rifle
+use red_key red_door
+The red_door is unlocked!
+open red_door
+The red_door is opened.
+move east
+You entered a middle-sized kitchen. There is a countertop in east and there is a drawer under the countertop. There is a refrigerator in north.
+Also there is a wooden_door in south and a red_door in west.
+open drawer
+The drawer is opened.There is a lighter inside the drawer
+take lighter
+You have taken the lighter
+open refrigerator
+The refrigerator is opened.There is a steak inside the refrigerator
+take steak
+You have taken the steak
+open wooden_door
+The wooden_door is opened.
+move south
+You entered a big hall. There is a table in the middle and a vase on the table. There is a big chest in west, a painting in east.
+But there is a dog which seems hungry in front of the painting
+Also, there is a wooden_door in north and a iron_door in south.
+examine vase
+There is a golden_key inside the vase
+take golden_key
+You have taken the golden_key
+use golden_key chest
+The chest is unlocked!
+open chest
+The chest is opened.There is a bullet inside the chest
+take bullet
+You have taken the bullet
+use steak dog
+The dog has eaten the steak and sinked into a deep sleep.
+examine painting
+There is a safe behind the painting!
+use lighter paper
+The letters 'C', 'O', 'M', 'P' appeared on the paper! 
+open safe
+Please enter the four character password to open the safe.
+COMP
+The safe is unlocked
+open safe
+The safe is opened.There is a glass_sphere inside the safe!
+take glass_sphere
+You have taken the glass_sphere
+use bullet rifle
+The rifle is loaded!
+use rifle glass_sphere
+The glass_sphere has broken to pieces. Now you get take the silver_key
+take silver_key
+You have taken the silver_key
+use silver_key iron_door
+The iron_door is unlocked!
+open iron_door
+The iron_door is opened.
+move south
+Congratulations! You have successfully exited from the house!
